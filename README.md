@@ -64,6 +64,3 @@ This repository contains the backend for an educational app designed to manage a
 
 - Access the API at `http://localhost:3000`
 
-## Contact
-
-For any inquiries or feedback, please contact [rehankhan.jgr@gmail.com](mailto:rehankhan.jgr@gmail.com).
